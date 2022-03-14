@@ -1,0 +1,11 @@
+<¡DOCTYPE html >
+<html>
+<heat>
+   <meta charset="utf-8">
+    <meta name="viewport content="width=device-width,initial-scale=1>
+   <title>hola</title>
+</head>
+<boody>
+   hola mundo 
+</body>
+</html>
